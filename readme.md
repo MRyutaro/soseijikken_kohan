@@ -1,0 +1,1 @@
+これはgoogle colabで主に開発した
